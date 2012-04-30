@@ -1,0 +1,6 @@
+.gvfs
+dev/
+sys/
+proc/
+mnt/
+torrents
